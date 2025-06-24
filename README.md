@@ -1,4 +1,10 @@
 ### Hi there 👋
+Thanks for visiting, I am Gielen, I work in Transformation and Internal Platforms Strategy & Enablement, 
+
+- 👷‍♂️✏️ I’m currently working on materials and concepts that can be used by to support Internal Platforms strategy and enablement work, some of which i plan to share here.
+- 🌱    I’m learning about AI and implications for my area of work
+- 💬 Love to chat about Internal Platforms, Enterprise Arquitecture, ITSM, DevOps, Team Topologies and Service Design
+- 📫 You can reach me via: https://www.linkedin.com/in/gielen/  OR  https://valuecraftstudio.com/
 
 <!--
 **Gielen1/gielen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
