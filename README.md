@@ -1,8 +1,9 @@
 ### Hi there 👋
 Thanks for visiting, I am Gielen, I work in Transformation and Internal Platforms Strategy & Enablement, 
 
-- 👷‍♂️✏️ I’m currently working on materials and concepts that can be used by to support Internal Platforms strategy and enablement work, such as the 'unframed' cards, the PlatformOps series and...
-- 🌱   I’m learning about Platform Engineering tooling
+- 👷‍♂️ I’m currently working on materials and concepts that can be used by to support Internal Platforms strategy and enablement work, such as the 'unframed' cards, the PlatformOps series and https://www.platformengineeringtoolkit.com/
+- ✏️ Produd creator of the Platform Engineering Toolkit, read more about why we created it here:  https://www.platformengineeringtoolkit.com/about.html
+- 🌱 Continue learning about Cloud and technology, currently focusing on Orchestration, IDPs and Platform Engineering tooling 
 - 💬 Love to chat about Internal Platforms, Enterprise Arquitecture, ITSM, DevOps, Team Topologies, Platform Engineering and Service Design
 - 📫 You can reach me via: https://www.linkedin.com/in/gielen/  OR  https://valuecraftstudio.com/
 
