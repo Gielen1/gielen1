@@ -2,7 +2,7 @@
 Thanks for visiting, I am Gielen, I work in Transformation and Internal Platforms Strategy & Enablement, 
 
 - 👷‍♂️ I continually share knowledge through articles and events on topics related to transformation, Including: Operating Models, Platforms Service Design, Governance and organizacional design. 
-  you can find them all at:  https://valuecraftstudio.com/articles-%26-events 
+  you can find them all at:  https://valuecraftstudio.com/articles-%26-events -  I plan to share more through the repositores in this GitHub- watch this space.
 - ✏️ Proud creator of the Platform Engineering Toolkit, read more about why we created it here:  https://www.platformengineeringtoolkit.com/about.html
 - 🌱 Continusly learning about Cloud and technology, currently focusing on Orchestration, IDPs and Platform Engineering tooling 
 - 💬 Love to chat about Service Design, Operating Models, Internal Platforms, Platform Engineering, Enterprise Arquitecture, ITSM, DevOps and Team Topologies!
